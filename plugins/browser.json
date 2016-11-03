@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "tv.learntoprogram.persontoperson"
+        }
+    }
+}
